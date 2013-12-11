@@ -103,7 +103,6 @@
     <string name="attachment_unknown" msgid="6005445955982153931">"<xliff:g id="ATTACHMENTEXTENSION">%s</xliff:g> फाईल"</string>
     <string name="preview_attachment" msgid="6934911143603455393">"पूर्वावलोकन"</string>
     <string name="save_attachment" msgid="5360128849867863132">"बचत गर्नुहोस्"</string>
-    <string name="info_attachment" msgid="607849900865956536">"जानकारी"</string>
     <string name="cancel_attachment" msgid="4651201258272223650">"रद्द गर्नुहोस्"</string>
     <string name="download_again" msgid="7418568915429156518">"पुन: डाउनलोड गर्नुहोस्"</string>
     <string name="more_info_attachment" msgid="717244337981816703">"जानकारी"</string>
@@ -142,7 +141,6 @@
     <string name="unread_string" msgid="588180203444398297">"नपढिएको कुराकानी"</string>
     <string name="filtered_tag" msgid="6470627954465675488">"[<xliff:g id="TAG">%1$s</xliff:g>]<xliff:g id="SUBJECT">%2$s</xliff:g>"</string>
     <string name="subject_and_snippet" msgid="7884124651812798896">"<xliff:g id="ID_1">%s</xliff:g> - <xliff:g id="ID_2">%s</xliff:g>"</string>
-    <string name="ap_overflow_format" msgid="2285438422049030145">"+ <xliff:g id="ID_1">%d</xliff:g>"</string>
   <plurals name="draft">
     <item quantity="one" msgid="333591132893648383">"ड्राफ्ट"</item>
     <item quantity="other" msgid="6961049507579977505">"ड्राफ्टहरू"</item>
@@ -211,14 +209,8 @@
     <string name="search_results_header" msgid="4669917471897026269">"परिणामहरू"</string>
     <string name="search_unsupported" msgid="4654227193354052607">"यस खातामा खोजी समर्थित छैन।"</string>
     <string name="search_results_searching_header" msgid="3821361153909466819">"खोजी गर्दै..."</string>
-    <string name="recent_folders" msgid="8240081561436891330">"हालैको"</string>
     <string name="add_label" msgid="1638508840481944248">"लेबल थप्नुहोस्"</string>
-    <string name="conversation_count" msgid="4459776616201694172">"<xliff:g id="COUNT">%1$s</xliff:g> यस <xliff:g id="TOTAL">%2$s</xliff:g>को"</string>
-    <string name="conversation_newer" msgid="7381341099165809801">"अझ नयाँ"</string>
-    <string name="conversation_older" msgid="6384287019562069353">"अझ पुरानो"</string>
     <string name="new_incoming_messages_one" msgid="3200934730744395520">"<xliff:g id="SENDER">%s</xliff:g>बाट नयाँ मेल"</string>
-    <string name="new_incoming_messages_many" msgid="1071412616544342913">"<xliff:g id="COUNT">%1$d</xliff:g> नयाँ सन्देशहरू"</string>
-    <string name="show" msgid="7114006150083237343">"देखाउनुहोस्"</string>
     <string name="expand_recipient_details" msgid="2266544827446346880">"प्राप्तकर्ता विवरणहरू विस्तार गर्नुहोस्"</string>
     <string name="collapse_recipient_details" msgid="3608892454869745927">"प्राप्तकर्ता विवरण कोलाप्स गर्नुहोस्"</string>
     <string name="contact_info_string" msgid="6911322458329265644">"सम्पर्क जानकारी <xliff:g id="NAME">%1$s</xliff:g>को लागि देखाउनुहोस्"</string>
@@ -275,12 +267,10 @@
     <string name="activity_mailbox_selection" msgid="6876105223659297603">"खाता छान्नुहोस्"</string>
     <string name="activity_folder_selection" msgid="5161845867397316052">"फोल्डर छान्नुहोस्"</string>
     <string name="folder_shortcut_widget_label" msgid="6700454062559797794">"इमेल फोल्डर"</string>
-    <string name="sync_all" msgid="1057043212338233359">"सिंक: सबै"</string>
   <plurals name="sync_recent">
     <item quantity="one" msgid="137489911893192702">"सिंक: अन्तिम <xliff:g id="COUNT">%1$d</xliff:g> दिन"</item>
     <item quantity="other" msgid="6856940335775567991">"सिंक: अन्तिम <xliff:g id="COUNT">%1$d</xliff:g> दिन"</item>
   </plurals>
-    <string name="sync_none" msgid="3581727068747471804">"सिंक: कुनै पनि होईन"</string>
     <string name="change_folders_selection_dialog_title" msgid="8640832109613405534">"फोल्डरहरू परिवर्तन गर्नुहोस्"</string>
     <string name="move_to_selection_dialog_title" msgid="1230762892675507608">"मा सार्नुहोस्"</string>
     <string name="search_hint" msgid="3625734263059221350">"मेल खोज्नुहोस्"</string>

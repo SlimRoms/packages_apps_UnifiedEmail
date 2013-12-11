@@ -103,7 +103,6 @@
     <string name="attachment_unknown" msgid="6005445955982153931">"ឯកសារ <xliff:g id="ATTACHMENTEXTENSION">%s</xliff:g>"</string>
     <string name="preview_attachment" msgid="6934911143603455393">"មើល​ជាមុន"</string>
     <string name="save_attachment" msgid="5360128849867863132">"រក្សាទុក"</string>
-    <string name="info_attachment" msgid="607849900865956536">"ព័ត៌មាន"</string>
     <string name="cancel_attachment" msgid="4651201258272223650">"បោះ​បង់"</string>
     <string name="download_again" msgid="7418568915429156518">"ទាញ​យក​ម្ដងទៀត"</string>
     <string name="more_info_attachment" msgid="717244337981816703">"ព័ត៌មាន"</string>
@@ -142,7 +141,6 @@
     <string name="unread_string" msgid="588180203444398297">"ការ​សន្ទនា​មិន​ទាន់​​អាន"</string>
     <string name="filtered_tag" msgid="6470627954465675488">"[<xliff:g id="TAG">%1$s</xliff:g>]<xliff:g id="SUBJECT">%2$s</xliff:g>"</string>
     <string name="subject_and_snippet" msgid="7884124651812798896">"<xliff:g id="ID_1">%s</xliff:g> — <xliff:g id="ID_2">%s</xliff:g>"</string>
-    <string name="ap_overflow_format" msgid="2285438422049030145">"+<xliff:g id="ID_1">%d</xliff:g>"</string>
   <plurals name="draft">
     <item quantity="one" msgid="333591132893648383">"សេចក្ដី​ព្រាង"</item>
     <item quantity="other" msgid="6961049507579977505">"សេចក្ដី​ព្រាង"</item>
@@ -211,14 +209,8 @@
     <string name="search_results_header" msgid="4669917471897026269">"លទ្ធផល"</string>
     <string name="search_unsupported" msgid="4654227193354052607">"មិន​គាំទ្រ​ការ​ស្វែងរក​​នៅ​លើ​គណនី​នេះ​។"</string>
     <string name="search_results_searching_header" msgid="3821361153909466819">"កំពុង​​ស្វែងរក..."</string>
-    <string name="recent_folders" msgid="8240081561436891330">"ថ្មីៗ"</string>
     <string name="add_label" msgid="1638508840481944248">"បន្ថែម​ស្លាក"</string>
-    <string name="conversation_count" msgid="4459776616201694172">"<xliff:g id="COUNT">%1$s</xliff:g> នៃ <xliff:g id="TOTAL">%2$s</xliff:g>"</string>
-    <string name="conversation_newer" msgid="7381341099165809801">"ថ្មី​ជាង"</string>
-    <string name="conversation_older" msgid="6384287019562069353">"ចាស់​ជាង"</string>
     <string name="new_incoming_messages_one" msgid="3200934730744395520">"សារ​ថ្មី​ពី <xliff:g id="SENDER">%s</xliff:g> ។"</string>
-    <string name="new_incoming_messages_many" msgid="1071412616544342913">"សារ​ថ្មី <xliff:g id="COUNT">%1$d</xliff:g>"</string>
-    <string name="show" msgid="7114006150083237343">"បង្ហាញ"</string>
     <string name="expand_recipient_details" msgid="2266544827446346880">"ពង្រីក​សេចក្ដី​លម្អិត​របស់​អ្នក​ទទួល"</string>
     <string name="collapse_recipient_details" msgid="3608892454869745927">"បញ្ចូល​​ព័ត៌មាន​លម្អិត​អ្នក​ទទួល"</string>
     <string name="contact_info_string" msgid="6911322458329265644">"បង្ហាញ​ព័ត៌មាន​ទំនាក់ទំនង​សម្រាប់ <xliff:g id="NAME">%1$s</xliff:g>"</string>
@@ -275,12 +267,10 @@
     <string name="activity_mailbox_selection" msgid="6876105223659297603">"ជ្រើស​គណនី"</string>
     <string name="activity_folder_selection" msgid="5161845867397316052">"ជ្រើស​ថត"</string>
     <string name="folder_shortcut_widget_label" msgid="6700454062559797794">"ថត​អ៊ីមែល"</string>
-    <string name="sync_all" msgid="1057043212338233359">"ធ្វើ​សម​កាល​កម្ម​៖ ទាំងអស់"</string>
   <plurals name="sync_recent">
     <item quantity="one" msgid="137489911893192702">"សម​កាល​កម្ម​៖ <xliff:g id="COUNT">%1$d</xliff:g> ថ្ងៃចុងក្រោយ"</item>
     <item quantity="other" msgid="6856940335775567991">"សម​កាល​កម្ម​៖ <xliff:g id="COUNT">%1$d</xliff:g> ថ្ងៃ​ចុងក្រោយ"</item>
   </plurals>
-    <string name="sync_none" msgid="3581727068747471804">"សម​កាល​កម្ម​៖ គ្មាន"</string>
     <string name="change_folders_selection_dialog_title" msgid="8640832109613405534">"ប្ដូរ​ថត"</string>
     <string name="move_to_selection_dialog_title" msgid="1230762892675507608">"ផ្លាស់ទី​ទៅ"</string>
     <string name="search_hint" msgid="3625734263059221350">"ស្វែងរក​អ៊ីមែល"</string>
